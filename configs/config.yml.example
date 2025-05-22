@@ -1,0 +1,1 @@
+dsn: "host=localhost port=5432 user=otus password=123456 dbname=migrator sslmode=disable"
