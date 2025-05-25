@@ -1,0 +1,5 @@
+-- +up
+CREATE TABLE IF NOT EXISTS example (uuid UUID PRIMARY KEY NOT NULL);
+
+-- +down
+DROP TABLE IF EXISTS example;
